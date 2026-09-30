@@ -1,4 +1,4 @@
-# AqylRoute AI — единый маршрут ребёнка с РАС
+# AqylRoute AI — единый маршрут ребёнка с РАС )
 
 <img src="frontend/public/brand/aqylroute-logo.svg" alt="AqylRoute AI" height="56">
 
